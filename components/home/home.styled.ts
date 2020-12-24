@@ -5,6 +5,7 @@ export const HomeBody = styled.div`
 	justify-content: space-evenly;
 	align-items: center;
 	margin-top: 200px;
+	min-height: 100vh;
 `;
 
 export const AvatarFrame = styled.div`
