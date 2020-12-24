@@ -15,6 +15,9 @@ export const AvatarFrame = styled.div`
 	border-radius: 50%;
 	padding: 5px;
 	box-shadow: 10px 10px 5px #121212, -10px -10px 10px #717171;
+	&:hover {
+		box-shadow: none;
+	}
 `;
 
 export const HomeContent = styled.div`
