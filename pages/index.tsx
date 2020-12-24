@@ -2,7 +2,7 @@ import Head from 'next/head';
 import { Fragment } from 'react';
 import Navbar from '../components/navbar';
 import { about } from './api/data';
-import { AvatarFrame, HomeBody, HomeContent, SocialIcons } from './home.styled';
+import { AvatarFrame, HomeBody, HomeContent, SocialIcons } from '../components/home/home.styled';
 import { Avatar } from '@material-ui/core';
 
 import { FaFacebook, FaGithub, FaLinkedin, FaWhatsapp } from 'react-icons/fa';
