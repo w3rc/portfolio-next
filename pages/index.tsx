@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Fragment>
       <Navbar />
-      hello
+      hello world
     </Fragment>
   );
 }
