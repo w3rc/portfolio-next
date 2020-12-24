@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <Fragment>
       <Head>
-        <title>Rupayan</title>
+        <title>Rupayan Chakraborty</title>
       </Head>
       <Homepage>
         <Navbar />
