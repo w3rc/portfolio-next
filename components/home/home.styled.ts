@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const Homepage = styled.div`
 	min-height: 100vh;
+	background-color: #313131;
 `;
 
 export const HomeBody = styled.div`
