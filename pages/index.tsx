@@ -13,7 +13,7 @@ export default function Home() {
       <Head>
         <title>Rupayan</title>
       </Head>
-      <HomePage>
+      <Homepage>
         <Navbar />
         <HomeBody>
           <AvatarFrame>
@@ -29,7 +29,7 @@ export default function Home() {
             </SocialIcons>
           </HomeContent>
         </HomeBody>
-      </HomePage>
+      </Homepage>
     </Fragment>
   );
 }
