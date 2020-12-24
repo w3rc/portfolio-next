@@ -1,11 +1,14 @@
 import styled from 'styled-components';
 
+export const Homepage = styled.div`
+	min-height: 100vh;
+`;
+
 export const HomeBody = styled.div`
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
 	margin-top: 200px;
-	min-height: 100vh;
 `;
 
 export const AvatarFrame = styled.div`
