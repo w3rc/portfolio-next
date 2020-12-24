@@ -1,6 +1,7 @@
 {
   "name": "next-ts-styled",
   "version": "0.1.0",
+  "author": "w3rc",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,9 +9,11 @@
     "git": "git add . && git commit -m ... && git push origin master"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
     "next": "10.0.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "react-icons": "^4.1.0",
     "sass": "^1.30.0",
     "styled-components": "^5.2.1"
   },
@@ -18,5 +21,6 @@
     "@types/node": "^14.14.16",
     "@types/styled-components": "^5.1.7",
     "typescript": "^4.1.3"
-  }
+  },
+  "license": "MIT"
 }
