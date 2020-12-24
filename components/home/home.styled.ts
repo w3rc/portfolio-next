@@ -27,7 +27,7 @@ export const HomeContent = styled.div`
 export const SocialIcons = styled.div`
 	display: flex;
 	& > * {
-		margin: 10px 15px;
+		margin: 20px 15px;
 		cursor: pointer;
 	}
 `;
